@@ -1,0 +1,17 @@
+h1 {
+    color: #008080;
+}
+body {
+    background: #ffffee;
+}
+div {
+    width: 800px;
+    height: 600px;
+    background: #fff;
+    border: 10px ridge #ddd;
+    border-radius: 10px;
+    border-bottom: 16px ridge #ddd;
+    box-shadow: 0 4px 10px #333;
+    margin: auto;
+    -webkit-box-sizing: border-box;
+}
